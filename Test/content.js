@@ -32,8 +32,8 @@ const data = {
           {
             "id": 5,
             "title": "Hoisting",
-            "sourceLink": "",
-            "youtubeVideo": "",
+            "sourceLink": "https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/",
+            "youtubeVideo": "https://youtu.be/Fnlnw8uY6jo?si=puAeQF-DOO9RQpfz",
             "codeSnippetLink": "Add kara"
           },
           {
